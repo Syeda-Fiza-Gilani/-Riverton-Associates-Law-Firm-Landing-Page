@@ -31,7 +31,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed, then:
 
 ```bash
 # clone the repo
-git clone https://github.com/Syeda-Fiza-Gilani/riverton-law.git
+git clone https://github.com/Syeda-Fiza-Gilani/riverton-law-landing-page.git
 
 # go into the folder
 cd riverton-law
