@@ -90,8 +90,8 @@ riverton-law/
 
 I'm a student learning AI-Native Full Stack development. Feedback and suggestions are welcome!
 
-- GitHub: [@your-username](https://github.com/Syeda-Fiza-Gilani)
-- LinkedIn: [your-name](https://linkedin.com/in/www.linkedin.com/in/syeda-fiza-gilani-9081aa41b)
+- GitHub: [Syeda-Fiza-Gilani](https://github.com/Syeda-Fiza-Gilani)
+- LinkedIn: [Syeda-Fiza-Gilani](https://linkedin.com/in/syeda-fiza-gilani-9081aa41b)
 
 ---
 
